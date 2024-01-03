@@ -1,0 +1,5 @@
+﻿  MusicPlayer.cpp
+C:\Users\Lenovo\Documents\Tencent Files\1569355417\FileRecv\Project2\Project2\MusicPlayer.cpp(161,11): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+C:\Users\Lenovo\Documents\Tencent Files\1569355417\FileRecv\Project2\Project2\MusicPlayer.cpp(252,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Lenovo\Documents\Tencent Files\1569355417\FileRecv\Project2\Project2\MusicPlayer.cpp(290,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project2.vcxproj -> C:\Users\Lenovo\Documents\Tencent Files\1569355417\FileRecv\Project2\Debug\Project2.exe
